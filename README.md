@@ -1,2 +1,2 @@
-# LSTM_time_series_prediction
+# LSTM time series prediction
 Time series prediction
